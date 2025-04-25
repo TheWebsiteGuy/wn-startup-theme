@@ -2,8 +2,8 @@
     "name": "thewebsiteguy/wn-startup-theme",
     "description": "Winter starter theme upgraded with Tailwind v4 and Vite hot reloading",
     "type": "winter-theme",
-    "homepage": "https://github.com/ptmcgonigle/wn-startup-theme",
-    "repository": "https://github.com/ptmcgonigle/wn-workshop-theme",
+    "homepage": "https://github.com/thewebsiteguy/wn-startup-theme",
+    "repository": "https://github.com/thewebsiteguy/wn-workshop-theme",
     "keywords": ["winter cms", "winter", "theme", "tailwind", "vite"],
     "version": "1.0.0",
     "license": "MIT",
@@ -13,16 +13,11 @@
             "homepage": "https://github.com/thewebsiteguy",
             "email": "support@thewebsiteguy.uk",
             "role": "Developer"
-        },
-        {
-            "name": "Winter CMS Maintainers",
-            "homepage": "https://wintercms.com",
-            "role": "Maintainer"
         }
     ],
     "support": {
-        "issues": "https://github.com/ptmcgonigle/wn-startup-theme/issues",
-        "source": "https://github.com/ptmcgonigle/wn-startup-theme"
+        "issues": "https://github.com/thewebsiteguy/wn-startup-theme/issues",
+        "source": "https://github.com/thewebsiteguy/wn-startup-theme"
     },
     "require": {
         "composer/installers": "~1.0"
